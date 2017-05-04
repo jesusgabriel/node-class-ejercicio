@@ -1,0 +1,27 @@
+{
+  "name": "node-class-ejercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianmelo93/node-class-ejercicio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianmelo93/node-class-ejercicio/issues"
+  },
+  "homepage": "https://github.com/adrianmelo93/node-class-ejercicio#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "morgan": "^1.8.1",
+    "nodemon": "^1.11.0"
+  }
+}
